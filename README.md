@@ -5,7 +5,9 @@ All with Config!**
 
 **To download Type me: https://discord.com/invite/WNK777rhwg**
 
-https://github.com/user-attachments/assets/055df8d2-1e4d-4eed-ae4e-70bcf8546b05
+
+https://github.com/user-attachments/assets/d1ec140b-2ede-4de1-955d-a13d31aa47d3
+
 
 
 ### Supported Language
