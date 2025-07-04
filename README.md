@@ -6,28 +6,43 @@ All with Config!**
 **To download Type me: https://discord.com/invite/WNK777rhwg**
 
 
-https://github.com/user-attachments/assets/d1ec140b-2ede-4de1-955d-a13d31aa47d3
+[▶️ Full preview](http://madgames.eu/2025-07-04%2017-29-56.mp4)
+
+https://github.com/user-attachments/assets/14f04c0c-9802-41f2-8c1a-2d3e2b4dd5a4
+
 
 
 
 ### Supported Language
 Czech, English
 
+### Commands
+• css_recreategift | **Recreate gift on map** (@css/root)
+
+• css_getposition | **Get your actuall position**
+
+• css_reload_gifts | **Reload Gifts config** (@css/root)
+
+• css_addgift <NAME> | **Add new Gift on map and type in config!** (@css/root)
 
 ### Config
 ```json
 {
   "model": "models/props/crates/csgo_drop_crate_winteroffensive.vmdl",
   "PickUp_Sound": "sounds/ui/counter_beep.vsnd",
+  "AllowAnimation": true,
+  "Animation": "csgo_drop_crate_open",
+  "GlowModel": true,
   "ADs": [
     {
-      "pos_x": 663.0,
-      "pos_y": -1168.0,
-      "pos_z": -127.0,
+      "pos_x": 663,
+      "pos_y": -1168,
+      "pos_z": -127,
       "rot_x": 0,
       "rot_y": 0,
       "rot_z": 0,
-      "entity": "TSpawn1"
+      "entity": "TSpawnBox",
+      "map": "de_mirage"
     }
   ],
   "Rewards": [
@@ -50,21 +65,21 @@ Czech, English
       "armor": 0,
       "command": "",
       "item": "",
-      "text": "10HP"
+      "text": "+10 HP"
     },
     {
       "health": 0,
       "armor": 10,
       "command": "",
       "item": "",
-      "text": "10ARMOR"
+      "text": "+10 ARMOR"
     },
     {
       "health": 10,
       "armor": 10,
       "command": "",
       "item": "",
-      "text": "10 ARMOR , 10 HP"
+      "text": "+10 ARMOR , +10 HP"
     }
   ],
   "ConfigVersion": 1
