@@ -1,3 +1,6 @@
+# https://discord.com/invite/WNK777rhwg CONNECT FOR LIST ALL MY PLUGINS!!!
+
+
 ### Gift Collector
 
 **You can create models that you can then take, create custom rewards and randomly select them.
