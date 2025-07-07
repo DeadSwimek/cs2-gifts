@@ -6,6 +6,8 @@
 **You can create models that you can then take, create custom rewards and randomly select them.
 All with Config!**
 
+**Sound's with -30Db https://steamcommunity.com/sharedfiles/filedetails/?id=3519291779**
+
 **To download Type me: https://discord.com/invite/WNK777rhwg**
 
 
