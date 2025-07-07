@@ -7,6 +7,19 @@
 All with Config!**
 
 **Sound's with -30Db https://steamcommunity.com/sharedfiles/filedetails/?id=3519291779**
+If u using Workshop sound, use this config:
+```json
+  "model": "models/props/crates/csgo_drop_crate_winteroffensive.vmdl",
+  "PickUp_Sound": "sounds/gift/csgo_ui_crate_item_scroll.vsnd",
+  "AllowAnimation": true,
+  "Animation": "csgo_drop_crate_open",
+  "GlowModel": true,
+  "Rarity_sound1": "sounds/gift/item_drop2_uncommon.vsnd",
+  "Rarity_sound2": "sounds/gift/item_drop3_rare.vsnd",
+  "Rarity_sound3": "sounds/gift/item_drop4_mythical.vsnd",
+  "Rarity_sound4": "sounds/gift/item_drop5_legendary.vsnd",
+  "Rarity_sound5": "sounds/gift/item_drop6_ancient.vsnd",
+```
 
 **To download Type me: https://discord.com/invite/WNK777rhwg**
 
